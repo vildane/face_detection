@@ -15,6 +15,7 @@ async function populateVideo() {
     const stream = await navigator.mediaDevices.getUserMedia({
         video: {width: 1280, height: 720},
     });
-    console.log(stream);
+    video.srcObject = stream; //since is a stream you do src.Object
+    await video.play();
 }
 populateVideo();

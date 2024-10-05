@@ -13,7 +13,8 @@ async function populateVideo() {
             height: 720
         }
     });
-    console.log(stream);
+    video.srcObject = stream; //since is a stream you do src.Object
+    await video.play();
 }
 populateVideo();
 
