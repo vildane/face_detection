@@ -11,14 +11,13 @@
 105C:\Users\vikib\Documents\face-detection\face_detection\node_modules\caniuse-lite\data\features\css-all.js133726226196380587 0
 74C:\Users\vikib\Documents\face-detection\face_detection\node_modules\braces133726226144909316 1
 105C:\Users\vikib\Documents\face-detection\face_detection\node_modules\posthtml\node_modules\posthtml-parser133726226134821926 1
-59C:\Users\vikib\Documents\face-detection\face_detection\dist133726226858890652 1
+59C:\Users\vikib\Documents\face-detection\face_detection\dist133726231782678554 1
 99C:\Users\vikib\Documents\face-detection\face_detection\node_modules\caniuse-lite\data\regions\BA.js133726226179456946 0
 96C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@parcel\logger\src\Logger.js133726226126579455 0
 72C:\Users\vikib\Documents\face-detection\face_detection\node_modules\csso133726226191687324 1
 92C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@swc\helpers\_\_identity133726226187631646 1
 106C:\Users\vikib\Documents\face-detection\face_detection\node_modules\svgo\plugins\addClassesToSVGElement.js133726226173904245 0
 120C:\Users\vikib\Documents\face-detection\face_detection\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133726226186134817 0
-80C:\Users\vikib\Documents\face-detection\face_detection\dist\face.78b1ac0f.js.map133726226394014511 0
 96C:\Users\vikib\Documents\face-detection\face_detection\node_modules\htmlnano\lib\presets\max.mjs133726226190708567 0
 80C:\Users\vikib\Documents\face-detection\face_detection\node_modules\htmlnano\lib133726226190172432 1
 74C:\Users\vikib\Documents\face-detection\face_detection\node_modules\semver133726226176892219 1
@@ -46,7 +45,6 @@
 78C:\Users\vikib\Documents\face-detection\face_detection\node_modules\is-extglob133726226127048309 1
 85C:\Users\vikib\Documents\face-detection\face_detection\node_modules\lmdb\util\when.js133726226196408685 0
 94C:\Users\vikib\Documents\face-detection\face_detection\node_modules\svgo\plugins\cleanupIds.js133726226175728061 0
-76C:\Users\vikib\Documents\face-detection\face_detection\dist\face.78b1ac0f.js133726226393921995 0
 83C:\Users\vikib\Documents\face-detection\face_detection\node_modules\is-glob\LICENSE133726226117516831 0
 102C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@parcel\runtime-service-worker\src133726226125908362 1
 110C:\Users\vikib\Documents\face-detection\face_detection\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133726226200936069 0
@@ -81,7 +79,7 @@
 92C:\Users\vikib\Documents\face-detection\face_detection\node_modules\abortcontroller-polyfill133726226151660285 1
 99C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@parcel\core\lib\BundleGraph.js133726226174344747 0
 123C:\Users\vikib\Documents\face-detection\face_detection\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Selector.cjs133726226192134076 0
-64C:\Users\vikib\Documents\face-detection\face_detection\face.html133726226856742616 0
+64C:\Users\vikib\Documents\face-detection\face_detection\face.html133726231052365188 0
 120C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@swc\helpers\esm\_object_without_properties_loose.js133726226204091991 0
 97C:\Users\vikib\Documents\face-detection\face_detection\node_modules\react-refresh\build-info.json133726226142407172 0
 122C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@babel\highlight\node_modules\ansi-styles\package.json133726226117848055 0
@@ -113,7 +111,7 @@
 99C:\Users\vikib\Documents\face-detection\face_detection\node_modules\caniuse-lite\data\regions\SO.js133726226209572316 0
 110C:\Users\vikib\Documents\face-detection\face_detection\node_modules\css-tree\lib\syntax\node\index-generate.js133726226199630507 0
 106C:\Users\vikib\Documents\face-detection\face_detection\node_modules\css-tree\lib\syntax\node\IdSelector.js133726226199510117 0
-72C:\Users\vikib\Documents\face-detection\face_detection\pixelated-face.js133726198860052496 0
+72C:\Users\vikib\Documents\face-detection\face_detection\pixelated-face.js133726231782087961 0
 117C:\Users\vikib\Documents\face-detection\face_detection\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133726226186734413 0
 91C:\Users\vikib\Documents\face-detection\face_detection\node_modules\js-yaml\lib\type\map.js133726226160872121 0
 126C:\Users\vikib\Documents\face-detection\face_detection\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\README.md133726226196860703 0
@@ -5897,3 +5895,5 @@
 81C:\Users\vikib\Documents\face-detection\face_detection\node_modules\.bin\svgo.ps1133726226212040177 0
 99C:\Users\vikib\Documents\face-detection\face_detection\node_modules\.bin\update-browserslist-db.cmd133726226212040177 0
 99C:\Users\vikib\Documents\face-detection\face_detection\node_modules\.bin\update-browserslist-db.ps1133726226212040177 0
+76C:\Users\vikib\Documents\face-detection\face_detection\dist\face.78b1ac0f.js133726231782503783 0
+80C:\Users\vikib\Documents\face-detection\face_detection\dist\face.78b1ac0f.js.map133726231782611911 0
